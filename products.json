@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Oversized Shirt",
+    "description": "Oversized Fit Cotton T-shirt",
+    "price": 20.99,
+    "image": "https://images.pexels.com/photos/9558577/pexels-photo-9558577.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "color":"red",
+    "size":"xl"
+  },
+  {
+    "id": 2,
+    "name": "Sport Shirt",
+    "description": "Mixed Color Sport Shirt",
+    "price": 15.49,
+    "image": "https://images.pexels.com/photos/1103828/pexels-photo-1103828.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "color":"blue",
+    "size":"x"
+  },
+  {
+    "id": 3,
+    "name": "Jacket",
+    "description": "Blue Jacket Bumb",
+    "price": 25.79,
+    "image": "https://images.pexels.com/photos/6764014/pexels-photo-6764014.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "color":"black",
+    "size":"sm"
+  },
+  {
+    "id": 4,
+    "name": "Line Dress",
+    "description": "Off-White and brown printed woven A-line Dress",
+    "price": 25.79,
+    "image": "https://images.pexels.com/photos/4380970/pexels-photo-4380970.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "color":"yellow",
+    "size":"l"
+  },
+  {
+    "id": 5,
+    "name": "Maxi Dress",
+    "description": "Linen Asymmetric Cut Out Maxi Dress",
+    "price": 25.79,
+    "image": "https://images.pexels.com/photos/3687550/pexels-photo-3687550.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "color":"white",
+    "size":"m"
+  },
+  {
+    "id": 6,
+    "name": "Jeans",
+    "description": "Women's Jogger Fit Fit Denim Jeans",
+    "price": 25.79,
+    "image": "https://images.pexels.com/photos/5101957/pexels-photo-5101957.jpeg?auto=compress&cs=tinysrgb&w=6000",
+    "color":"red",
+    "size":"xxxl"
+  },
+  {
+    "id": 7,
+    "name": "Shirt",
+    "description": "Vintage Ariana Grande Shirt",
+    "price": 25.79,
+    "image": "https://images.pexels.com/photos/8084059/pexels-photo-8084059.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "color":"brown",
+    "size":"sm"
+  },
+  {
+    "id": 8,
+    "name": "Jacket",
+    "description": "Cotton Fleece Fluffy Jacket",
+    "price": 25.79,
+    "image": "https://images.pexels.com/photos/3932875/pexels-photo-3932875.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "color":"green",
+    "size":"l"
+  },
+  {
+    "id": 9,
+    "name": "Hat",
+    "description": "Toddler Bobbles Hat",
+    "price": 25.79,
+    "image": "https://images.pexels.com/photos/459957/pexels-photo-459957.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "color":"blue",
+    "size":"xl"
+  },
+  {
+    "id": 10,
+    "name": "Sneakers",
+    "description": "Gucci Mixed Color Platform Sneakers",
+    "price": 25.79,
+    "image": "https://images.pexels.com/photos/977912/pexels-photo-977912.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "color":"white",
+    "size":"m"
+  },
+  {
+    "id": 11,
+    "name": "Adidas",
+    "description": "Adidas Originals YEEZY Boost 350",
+    "price": 25.79,
+    "image": "https://images.pexels.com/photos/1102776/pexels-photo-1102776.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "color":"green",
+    "size":"xxl"
+  },
+  {
+    "id": 12,
+    "name": "Nike",
+    "description": "Nike Air Presto White Shoes",
+    "price": 25.79,
+    "image": "https://images.pexels.com/photos/1858407/pexels-photo-1858407.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "color":"black",
+    "size":"xxxl"
+  }
+]
