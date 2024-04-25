@@ -1,0 +1,419 @@
+* {
+    box-sizing: border-box;
+}
+
+
+/* -----------------------------------------nav------------------------- */
+.navbar {
+    background-color: rgb(211, 212, 213);
+    background-color: #fff;
+}
+
+.header-logo {
+    width: 100px;
+    height: 65px;
+}
+
+.login-button-2 {
+    padding: 10px 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    margin: 10px;
+    line-height: normal;
+    white-space: nowrap;
+    align-items: center;
+    font-size: 14px;
+    padding: 13px 18px;
+    cursor: pointer;
+    transition: all 100ms ease 0s;
+    letter-spacing: 2px;
+    background-color: rgb(33, 42, 47);
+    color: rgb(255, 255, 255);
+    border: solid rgb(33, 42, 47);
+    text-align: center;
+    opacity: 1;
+    font-weight: 700;
+}
+
+.login-button-2:hover {
+    transition: all 800ms ease 0s;
+    color: rgb(33, 42, 47);
+    background-color: rgb(255, 255, 255);
+    border: solid rgb(33, 42, 47);
+
+}
+
+.navbar-m {
+    font-weight: 900;
+    font-size: 22px;
+    color: #212a2f;
+    font-family: Geograph, Helvetica, Arial, sans-serif;
+    text-decoration: none;
+    /* box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.459); */
+    padding-left: 80px;
+}
+
+.navbar-m span {
+    color: #212a2f;
+    font-size: 28px;
+}
+
+.offcanvas-body li a {
+    color: #212a2f;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.offcanvas-body li a:hover {
+
+    color: rgb(27, 27, 36);
+    text-decoration: underline;
+    transition: 60ms ease-in-out;
+}
+
+.cart-btn {
+    border-radius: 20px;
+    line-height: normal;
+    white-space: nowrap;
+    align-items: center;
+    font-size: 16px;
+    padding: 15px 18px;
+
+    cursor: pointer;
+    transition: all 100ms ease 0s;
+    letter-spacing: 2px;
+    background-color: rgb(33, 42, 47);
+    color: rgb(255, 255, 255);
+    border: solid rgb(33, 42, 47);
+    text-align: center;
+    opacity: 1;
+    font-weight: 700;
+    margin-right: 95px;
+}
+
+.cart-btn:hover {
+    transition: all 800ms ease 0s;
+    color: rgb(33, 42, 47);
+    background-color: rgb(255, 255, 255);
+    border: solid rgb(33, 42, 47);
+}
+
+header {
+    position: fixed;
+}
+
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+/* -----------------------------------section------------------------------ */
+.photo-section {
+    position: relative;
+    top: 100px;
+}
+.carousel-inner img{
+    height: 500px;
+    
+}
+ 
+
+ 
+
+.men-line::after {
+    content: "";
+    position: absolute;
+    top: 50px;
+    left: 21%;
+    width: 60%;
+    height: 2px;
+    background-color: rgb(211, 212, 213);
+}
+
+.top {
+    font-size: 14px;
+    padding: 15px 18px;
+    background-color: rgb(33, 42, 47);
+    border: 2px solid rgb(33, 42, 47);
+    border-radius: 50px;
+    font-weight: 700;
+    text-transform: uppercase;
+    transition: all 900ms ease 0s;
+    position: fixed;
+    bottom: 10px;
+    right: 30px;
+    opacity: 0;
+    z-index: 99;
+}
+
+.top:hover {
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(33, 42, 47);
+}
+
+.top a {
+    color: rgb(255, 255, 255);
+}
+
+.top:hover a {
+    color: rgb(33, 42, 47);
+}
+
+
+
+
+/* ------------------------------------------------------------------ */
+/* Styles for product grid */
+.product {
+    display: inline-block;
+    width: 200px;
+    margin: 10px;
+    border: 2px solid #ccc;
+    padding: 10px;
+    box-shadow: rgba(0, 0, 0, 0.12) 10px -15px 20px 0px;
+    cursor: pointer;
+}
+.product:hover{
+    transform: scale(1.03);
+}
+
+.product img {
+    width: 100%;
+    height: 140px;
+}
+
+
+.product p {
+    font-size: 14px;
+}
+
+/* ------------------------------------------------ */
+/* ----------------------------------main-------------------------- */
+.main {
+    position: relative;
+    top: 150px;
+    padding-bottom: 15px;
+    overflow: hidden;
+}
+
+.parent {
+    display: flex;
+    justify-content: space-between;
+}
+
+.img-product {
+    width: 200px;
+}
+
+.product {
+    width: 25rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.product-name {
+    padding-top: 10px;
+    font-size: 22px;
+    line-height: 1.32;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    font-family: Geograph, Helvetica, Arial, sans-serif;
+    color: #212a2f;
+    text-align: center;
+}
+
+.product-description {
+    font-weight: 400;
+    line-height: 1.43;
+    font-size: 14px;
+    letter-spacing: 0.4px;
+    font-family: Geograph, Helvetica, Arial, sans-serif;
+    overflow-x: hidden;
+    color: #212a2f;
+    text-align: center;
+}
+
+.price {
+    font-size: 16px;
+    line-height: 1.32;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    font-family: Geograph, Helvetica, Arial, sans-serif;
+    color: #212a2f;
+    text-align: center;
+}
+
+.card-btn {
+    line-height: normal;
+    white-space: nowrap;
+    align-items: center;
+    font-size: 14px;
+    padding: 13px 18px;
+    margin-bottom: 8px;
+    cursor: pointer;
+    transition: all 100ms ease 0s;
+    letter-spacing: 2px;
+    background-color: rgb(33, 42, 47);
+    color: rgb(255, 255, 255);
+    border: 2px solid rgb(33, 42, 47);
+    text-align: center;
+    text-decoration: none;
+    opacity: 1;
+    position: relative;
+    border-radius: 2px;
+    font-weight: 700;
+    text-transform: uppercase;
+    transition: all 800ms ease 0s;
+    text-align: center;
+}
+
+.card-btn:hover {
+    color: rgb(33, 42, 47);
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(33, 42, 47);
+}
+
+.add-to-cart-btn {
+    margin: 0px 0px 15px 0px;
+}
+
+@media (max-width:767px) {
+    .product {
+        width: 9rem;
+    }
+
+    .card-btn {
+        font-size: 10px;
+        padding: 13px 18px;
+    }
+}
+
+@media (max-width:520px) {
+    .parent {
+        flex-wrap: wrap;
+    }
+}
+
+@media (max-width:480px) {
+    .parent {
+        justify-content: center;
+    }
+}
+
+
+
+
+/* ----------------------------footer----------------- */
+footer {
+    background-color: #212a2f;
+    padding: 72px 0;
+    position: relative;
+    top: 180px;
+    /* z-index: 51; */
+    width: 100%;
+    overflow: hidden;
+}
+
+.header-footer {
+    font-size: 14px;
+    color: #fff;
+    margin: 0 0 18px;
+    line-height: 1.5;
+    font-weight: 700;
+    letter-spacing: 2px;
+    font-family: Geograph, Helvetica, Arial, sans-serif;
+}
+
+.list-footer {
+    list-style: none;
+    padding-left: 0px;
+}
+
+.item-list-footer {
+    padding: 3px;
+}
+
+.link-item-footer {
+    font-size: 12px;
+    font-weight: 400;
+    display: inline;
+    color: #fff;
+    text-decoration: none;
+    letter-spacing: .5px;
+    cursor: pointer;
+    font-family: Geograph, Helvetica, Arial, sans-serif;
+}
+
+.media-header {
+    font-size: 14px;
+    color: #fff;
+    margin: 15px 0 18px;
+    line-height: 1.5;
+    font-weight: 700;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-family: Geograph, Helvetica, Arial, sans-serif;
+}
+
+.media-pra {
+    font-size: 12px;
+    color: #fff;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: .5px;
+    margin: 0 0 18px;
+    font-family: Geograph, Helvetica, Arial, sans-serif;
+}
+
+.media-list {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    padding-left: 0px;
+
+}
+
+.media-item {
+    font-size: 18px;
+    color: #fff;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: .5px;
+    margin: 0 0 18px;
+    padding: 12px;
+}
+
+.allrights-para {
+    text-align: center;
+    color: #fff;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: .5px;
+    margin: 0 0 18px;
+    font-family: Geograph, Helvetica, Arial, sans-serif;
+}
+
+.allrights-span {
+    text-align: center;
+    color: #fff;
+    font-size: 12px;
+    font-weight: 400;
+    text-decoration: underline;
+    letter-spacing: .5px;
+    font-family: Geograph, Helvetica, Arial, sans-serif;
+}
+
+@media (max-width:767px) {
+    .footer-parent {
+        text-align: center;
+    }
+
+    .media-list {
+        justify-content: center;
+    }
+}

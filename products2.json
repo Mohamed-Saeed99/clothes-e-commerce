@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Oversized Shirt",
+    "price": 20.99,
+    "image": "https://images.pexels.com/photos/9558577/pexels-photo-9558577.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "color":"red",
+    "size":"xl"
+  },
+  {
+    "id": 2,
+    "name": "Sport Shirt",
+    "price": 15.49,
+    "image": "https://images.pexels.com/photos/1103828/pexels-photo-1103828.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "color":"blue",
+    "size":"x"
+  },
+  {
+    "id": 3,
+    "name": "Jacket",
+    "price": 25.79,
+    "image": "https://images.pexels.com/photos/19585972/pexels-photo-19585972/free-photo-of-man-wearing-white-clothes-walking-on-a-street.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "color":"black",
+    "size":"sm"
+  },
+  {
+    "id": 4,
+    "name": "Line Dress",
+    "price": 25.79,
+    "image": "https://images.pexels.com/photos/8074588/pexels-photo-8074588.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "color":"yellow",
+    "size":"l"
+  },
+  {
+    "id": 5,
+    "name": "Maxi Dress",
+    
+    "price": 25.79,
+    "image": " https://images.pexels.com/photos/6050395/pexels-photo-6050395.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "color":"white",
+    "size":"m"
+  },
+  {
+    "id": 6,
+    "name": "Jeans",
+    "price": 25.79,
+    "image": "https://media.istockphoto.com/id/968925454/photo/man-enjoying-shopping.jpg?s=612x612&w=0&k=20&c=niXlZmsFTl6P_h85q_qJJROMZ9ScJFlvaDC_U07ART4=",
+    "color":"red",
+    "size":"xxxl"
+  },
+  {
+    "id": 7,
+    "name": "Shirt",
+    "price": 25.79,
+    "image": " https://media.istockphoto.com/id/815762052/photo/a-personal-stylist-helping-his-customer.jpg?s=612x612&w=0&k=20&c=iQwcEzNRzH5G47FnezVb_Sa9mn8m44nSkofC89MHSCQ=",
+    "color":"brown",
+    "size":"sm"
+  },
+  {
+    "id": 8,
+    "name": "Jacket",
+    "price": 25.79,
+    "image": "https://media.istockphoto.com/id/523559213/photo/my-factory-floor-is-a-well-oiled-machine.jpg?s=612x612&w=0&k=20&c=STYRiXFjbNkVHs7tEgdrm-xob8v0YH0H-cg0tGDdowg=",
+    "color":"green",
+    "size":"l"
+  },
+  {
+    "id": 9,
+    "name": "Hat",
+    "price": 25.79,
+    "image": "https://images.pexels.com/photos/5935754/pexels-photo-5935754.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "color":"blue",
+    "size":"xl"
+  },
+  {
+    "id": 10,
+    "name": "Sneakers",
+    "price": 25.79,
+    "image": " https://images.pexels.com/photos/5264909/pexels-photo-5264909.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "color":"white",
+    "size":"m"
+  },
+  {
+    "id": 11,
+    "name": "Oversized Shirt",
+    "price": 20.99,
+    "image": "https://images.pexels.com/photos/9558577/pexels-photo-9558577.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "color":"red",
+    "size":"xl"
+  },
+  {
+    "id": 12,
+    "name": "Sport Shirt",
+    "price": 15.49,
+    "image": "https://images.pexels.com/photos/1103828/pexels-photo-1103828.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "color":"blue",
+    "size":"x"
+  },
+  {
+    "id": 13,
+    "name": "Jacket",
+    "price": 25.79,
+    "image": "https://images.pexels.com/photos/19585972/pexels-photo-19585972/free-photo-of-man-wearing-white-clothes-walking-on-a-street.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "color":"black",
+    "size":"sm"
+  },
+  {
+    "id": 14,
+    "name": "Jacket",
+    "price": 25.79,
+    "image": "https://media.istockphoto.com/id/523559213/photo/my-factory-floor-is-a-well-oiled-machine.jpg?s=612x612&w=0&k=20&c=STYRiXFjbNkVHs7tEgdrm-xob8v0YH0H-cg0tGDdowg=",
+    "color":"green",
+    "size":"l"
+  },
+  {
+    "id": 15,
+    "name": "Hat",
+    "price": 25.79,
+    "image": "https://images.pexels.com/photos/5935754/pexels-photo-5935754.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "color":"blue",
+    "size":"xl"
+  }]
